@@ -70,3 +70,17 @@ fi
 %{_datadir}/pear/Bytekit
 %{_datadir}/pear/packages/bytekit.xml
 
+
+
+%changelog
+* Fri Dec 16 2011 Oden Eriksson <oeriksson@mandriva.com> 1.1.2-2mdv2012.0
++ Revision: 742320
+- fix major breakage by careless packager
+
+* Wed Nov 16 2011 Oden Eriksson <oeriksson@mandriva.com> 1.1.2-1
++ Revision: 730863
+- import php-pear-bytekit
+
+
+* Wed Nov 16 2011 Oden Eriksson <oeriksson@mandriva.com> 1.1.2-1mdv2010.2
+- initial Mandriva package
