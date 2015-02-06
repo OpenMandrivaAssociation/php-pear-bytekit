@@ -6,7 +6,7 @@ Summary:	A command-line tool built on the PHP Bytekit extension
 
 Name:		php-pear-%{upstream_name}
 Version:	1.1.2
-Release:	3
+Release:	4
 License:	BSD
 Group:		Development/PHP
 URL:		http://www.phpunit.de/
